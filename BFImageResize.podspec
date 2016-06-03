@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'BFImageResize'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'Simply resize your UIImages by passing width and UIImage to BTImageResize category'
 
 s.homepage         = 'https://github.com/bitfactoryio/BFImageResize'
