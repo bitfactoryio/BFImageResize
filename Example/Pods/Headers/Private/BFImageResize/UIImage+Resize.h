@@ -1,1 +1,0 @@
-../../../../../BFImageResize/Classes/UIImage+Resize.h

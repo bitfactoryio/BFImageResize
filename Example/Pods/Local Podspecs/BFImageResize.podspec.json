@@ -2,7 +2,7 @@
   "name": "BFImageResize",
   "version": "0.1.0",
   "summary": "Simply resize your UIImages by passing width and UIImage to BTImageResize category",
-  "homepage": "https://github.com/bitfactoryci/BFImageResize",
+  "homepage": "https://github.com/bitfactoryio/BFImageResize",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,7 +11,7 @@
     "Matthias Nagel": "matthias@bitfactory.io"
   },
   "source": {
-    "git": "https://github.com/bitfactoryci/BFImageResize.git",
+    "git": "https://github.com/bitfactoryio/BFImageResize.git",
     "tag": "0.1.0"
   },
   "platforms": {
