@@ -1,0 +1,6 @@
+framework module BFImageResize {
+  umbrella header "BFImageResize-umbrella.h"
+
+  export *
+  module * { export * }
+}

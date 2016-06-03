@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BFImageResize_Tests' do
+  pod 'BFImageResize', :path => '../'
+  
+  
+end

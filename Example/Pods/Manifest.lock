@@ -1,0 +1,14 @@
+PODS:
+  - BFImageResize (0.1.0)
+
+DEPENDENCIES:
+  - BFImageResize (from `../`)
+
+EXTERNAL SOURCES:
+  BFImageResize:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFImageResize: 7b29a8829ab93870d4f979f5cbd1e5ca5b6ea4b6
+
+COCOAPODS: 0.39.0
